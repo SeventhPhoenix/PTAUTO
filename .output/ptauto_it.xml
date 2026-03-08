@@ -1031,20 +1031,15 @@
         <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
         <icon src="https://images.pluto.tv/series/672dcaa04ad856001364e544/tile_1769190483061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308071433 +0000" stop="20260308140246 +0000">
-        <title>Pluto TV Mujeres Protagonistas</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63d3da01c111bc0008ce65d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308071433 +0000" stop="20260308101233 +0000">
+        <title>Toni Erdmann</title>
+        <desc>Ines trabaja en una importante empresa alemana con sede en Bucarest. Tiene una vida perfectamente ordenada hasta que Winfried, su padre, llega de improviso y le hace una pregunta inesperada: "¿Eres feliz?"</desc>
+        <icon src="https://images.pluto.tv/series/60d0438d28f1d30013ed41e6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308140246 +0000" stop="20260308155846 +0000">
-        <title>Abajo el amor</title>
-        <desc>En Nueva York de 1963, una columnista de consejos de mujer que menosprecia el amor se enamora de un galán decidido a cautivarla.</desc>
-        <icon src="https://images.pluto.tv/series/6076b66a235736001ac4439f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308155846 +0000" stop="20260308182246 +0000">
-        <title>Historia de una pasión</title>
-        <desc>¿Quién fue Emily Dickinson? ¿Quién se escondía detrás de la poetisa que paso la mayor parte de su vida en casa de sus padres? La mansión en la que vivió sirve de telón de fondo al retrato de una mujer nada convencional de la que se sabe muy poco.</desc>
-        <icon src="https://images.pluto.tv/series/60d0435028f1d30013ed3400/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308101233 +0000" stop="20260308120826 +0000">
+        <title>Picnic en Hanging Rock</title>
+        <desc>El día de San Valentín de 1900, las estudiantes de la Escuela Appleyard van de excursión a Hanging Rock, una región australiana montañosa. A lo largo del día se producen una serie de fenómenos sobrenaturales.</desc>
+        <icon src="https://images.pluto.tv/series/67404978091e240013216a73/tile_1768598283780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260308052700 +0000" stop="20260308062200 +0000">
         <title>Crimen en cámara</title>
@@ -15724,10 +15719,10 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 2.</desc>
         <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308215700 +0000" stop="20260308235120 +0000">
-        <title>La buena mentira</title>
-        <desc>Historia real sobre un joven refugiado de la guerra civil sudanesa que gana la lotería para ser reubicado en Estados Unidos con otros tres niños perdidos.</desc>
-        <icon src="https://images.pluto.tv/series/672dcedd8d00c6001480354f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308215700 +0000" stop="20260308220000 +0000">
+        <title>Pluto TV Mujeres Protagonistas</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/63d3da01c111bc0008ce65d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260308170800 +0000" stop="20260308180300 +0000">
         <title>Crimen en cámara</title>
@@ -16987,6 +16982,11 @@ A finales de septiembre de 1980 Mark Chapman, cuyos transtornos mentales le conv
         <title>La Fiera de mi Niña</title>
         <desc>David Huxley (Cary Grant) es un paleontólogo tímido y despistado que está a punto de acabar la laboriosa reconstrucción del esqueleto de un brontosaurio, del que sólo le falta una clavícula intercostal.</desc>
         <icon src="https://images.pluto.tv/series/673afddbe103890013db9df7/tile_1769190841957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260308221516 +0000" stop="20260309000428 +0000">
+        <title>King Kong</title>
+        <desc>Un equipo de cine van a rodar una película a la misteriosa isla de Teschio, al este de Sumatra. Allí los recién llegados descubren la existencia de un gigantesco gorila, King Kong.</desc>
+        <icon src="https://images.pluto.tv/series/673b0bf2b7ea5e0013f37fb8/tile_1769191202089.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cd84603ad75cfd132d672" start="20260308171928 +0000" stop="20260308180740 +0000">
         <title>America's Next Top Model</title>

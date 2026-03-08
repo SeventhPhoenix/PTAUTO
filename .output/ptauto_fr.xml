@@ -11505,6 +11505,11 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
         <desc>À la suite de l’ouragan Katrina, l’entraîneur de basket-ball du lycée, Al Collins, rassemble des élèves de cinq écoles différentes de Louisiane et les mène jusqu’aux championnats de l’État.</desc>
         <icon src="https://images.pluto.tv/series/68f756e469032f4edf694a4d/tile_1761040101436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260308181250 +0000" stop="20260308195415 +0000">
+        <title>Playboy à saisir</title>
+        <desc>Tripp ne s'est jamais résolu à quitter le cocon familial. Il trouvait toujours une bonne excuse mais à présent, ses parents en ont assez. Ils engagent la charmante et talentueuse fille de ses rêves pour le pousser à quitter la maison.</desc>
+        <icon src="https://images.pluto.tv/series/661cc530b4334b0013179e95/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260308123858 +0000" stop="20260308145124 +0000">
         <title>Marathon Man</title>
         <desc>Dustin Hoffman (Rainman), un gentil étudiant qui s'entraîne pour le marathon, se retrouve coincé malgré lui dans un jeu dangereux impliquant Christian Szell, un fugitif nazi.</desc>
@@ -19835,9 +19840,14 @@ Louis nous guide pour une randonnée écologique et historique vers la source de
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260308213000 +0000" stop="20260308215200 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260308215200 +0000" stop="20260308224500 +0000">
+        <title>Boxing</title>
+        <desc>All the boxing action.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0673e6938001ad79e12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260308215200 +0000" stop="20260308224500 +0000">
         <title>Boxing</title>
@@ -25208,9 +25218,9 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260309020152 +0000" stop="20260309022152 +0000">
-        <title>Un Gars Une Fille: Dans un taxi /  A cheval /  Au téléphone (4)</title>
-        <desc>Dans un taxi /  A cheval /  Au téléphone (4)</desc>
-        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1769034244921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Un gars, une fille</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260309022152 +0000" stop="20260309024352 +0000">
         <title>Un Gars Une Fille: Au judo /  En boîte (2) /  Au lit (6)</title>
