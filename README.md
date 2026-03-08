@@ -1,23 +1,25 @@
 # 🌎 Pluto TV Playlists (Auto-Updating)
 
 ![Auto Update](https://img.shields.io/badge/JWT-Auto%20Refreshed-brightgreen)
+![Client ID](https://img.shields.io/badge/UUID-Auto%20Generated-blue)
 
 Automatically generates and refreshes a **Pluto TV M3U playlist** with a valid session token using GitHub Actions.
 
-Each user must generate their own unique `client_id` (UUID). This prevents playback conflicts and ensures stable stream access.
+A new random **UUID v4 clientID** is generated automatically during each workflow run. No manual UUID setup required.
 
 ---
 
 ## 🚀 How It Works
 
 - GitHub Actions runs on a schedule.
+- A fresh random **UUID v4** is generated automatically for `clientID`.
 - A fresh Pluto session JWT is requested.
 - The M3U playlist is regenerated using:
-  - Your unique `client_id`
+  - An auto-generated `clientID`
   - A valid session token
 - The updated playlist is committed to your fork.
 
-No manual token updates required.
+No manual token updates or UUID generation required.
 
 ---
 
@@ -25,56 +27,70 @@ No manual token updates required.
 
 ## 1️⃣ Fork This Repository
 
-Click **Fork** (top right of this page).
+Click **Fork** in the top right of this page.
 
 You now have your own independent copy.
 
 ---
 
-## 2️⃣ Generate a Unique Client ID (UUID)
+## 2️⃣ Run the Workflow
 
-You must generate your own UUID.
+No config changes are required for basic use.
 
-Use:
-https://www.uuidgenerator.net/
-
-Example:
-9a1cce51-2d2f-4b6c-9f8e-1e2d0a3b4c5d
-
-Copy your generated UUID.
-
----
-
-## 3️⃣ Edit `config.json`
-
-In your fork:
-
-Open `config.json` and replace:
-
-{
-  "client_id": "PASTE_YOUR_UNIQUE_UUID_HERE"
-}
-
-With:
-
-{
-  "client_id": "your-generated-uuid-here"
-}
-
-Commit the change.
-
----
-
-## 4️⃣ Run the Workflow
-
-1. Go to the **Actions** tab.
+1. Go to the **Actions** tab in your fork.
 2. Select **Auto Pluto Update**.
 3. Click **Run workflow**.
-4. Wait for it to complete.
+4. Wait for the workflow to complete.
 
-Your playlist will now be generated.
+The workflow will automatically:
 
-After that, it will auto-update on schedule.
+- generate a new UUID v4 for `clientID`
+- request a fresh Pluto session token
+- regenerate the playlist
+- commit updated output files
+
+After that, the workflow will continue updating automatically on schedule.
+
+---
+
+## 3️⃣ Optional: Adjust `config.json`
+
+You can edit other settings in `config.json` if needed, such as:
+
+- output directory
+- region mapping
+- grouping options
+- refresh settings
+- channel filtering
+
+Example:
+
+{
+  "outdir": "./output",
+  "mapping": {
+    "us": "45.50.96.71",
+    "uk": "51.89.255.67",
+    "ca": "23.227.38.65",
+    "de": "91.107.201.140",
+    "fr": "51.210.0.1",
+    "es": "82.98.134.10",
+    "it": "79.137.44.85"
+  },
+  "all": false,
+  "group": "genre",
+  "regionalize": false,
+  "excludeGroups": false,
+  "excludeChannels": false,
+  "uniqueClientid": false,
+  "randomClientid": false,
+  "refresh": 0,
+  "xTvgUrl": false,
+  "ondemand": false,
+  "vlcopts": false,
+  "pipeopts": false
+}
+
+`clientID` is handled automatically by `index.js` during each run.
 
 ---
 
@@ -88,7 +104,7 @@ After the workflow completes:
 3. Click **Raw**
 4. Copy the URL.
 
-### RAW URL Format
+RAW URL format:
 
 https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/output/plutotv_us.m3u8
 
@@ -102,16 +118,16 @@ Add this URL to your IPTV player:
 
 ---
 
-# 🔄 Automatic Token Refresh
+# 🔄 Automatic Updates
 
 The workflow automatically:
 
-- Requests a fresh Pluto session token
-- Regenerates playlist URLs
-- Commits updated files
+- generates a new UUID v4 `clientID`
+- requests a fresh Pluto session token
+- regenerates playlist URLs
+- commits updated files
 
-Tokens expire regularly.  
-This automation ensures your playlist remains valid.
+Since Pluto session tokens expire regularly, this automation keeps the playlist valid.
 
 ---
 
@@ -124,9 +140,9 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV
 # ⚠️ Important Notes
 
 - Do not share your generated playlist publicly.
-- Each user must use their own UUID.
+- A new `clientID` is generated automatically on each workflow run.
 - Excessive requests may result in temporary IP rate limiting.
-- This project is for personal use.
+- This project is intended for personal use.
 
 ---
 
