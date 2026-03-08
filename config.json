@@ -11,11 +11,11 @@
   },
   "all": false,
   "group": "genre",
-  "regionalize": false,
+  "regionalize": true,
   "excludeGroups": false,
   "excludeChannels": false,
   "refresh": 0,
-  "xTvgUrl": ".xml",
+  "xTvgUrl": false,
   "ondemand": false,
   "vlcopts": false,
   "pipeopts": false
