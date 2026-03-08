@@ -15,7 +15,7 @@
   "excludeGroups": false,
   "excludeChannels": false,
   "refresh": 0,
-  "xTvgUrl": true,
+  "xTvgUrl": ".xml",
   "ondemand": false,
   "vlcopts": false,
   "pipeopts": false
