@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-process.title = "plutotv scraper";
+process.title = "ptauto run";
 
 const check = (minver) => {
 	let semver = process.versions.node.split('.');
