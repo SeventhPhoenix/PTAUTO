@@ -1031,15 +1031,20 @@
         <desc>La mujer del guardián del zoo cuenta la historia de los guardianes del zoo de Varsovia, Jan y Antonina Zabinski, que ayudaron a salvar a cientos de personas y animales durante la invasión nazi.</desc>
         <icon src="https://images.pluto.tv/series/672dcaa04ad856001364e544/tile_1769190483061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308071433 +0000" stop="20260308101233 +0000">
-        <title>Toni Erdmann</title>
-        <desc>Ines trabaja en una importante empresa alemana con sede en Bucarest. Tiene una vida perfectamente ordenada hasta que Winfried, su padre, llega de improviso y le hace una pregunta inesperada: "¿Eres feliz?"</desc>
-        <icon src="https://images.pluto.tv/series/60d0438d28f1d30013ed41e6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308071433 +0000" stop="20260308140246 +0000">
+        <title>Pluto TV Mujeres Protagonistas</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/63d3da01c111bc0008ce65d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="63d3da01c111bc0008ce65d0" start="20260308101233 +0000" stop="20260308120826 +0000">
-        <title>Picnic en Hanging Rock</title>
-        <desc>El día de San Valentín de 1900, las estudiantes de la Escuela Appleyard van de excursión a Hanging Rock, una región australiana montañosa. A lo largo del día se producen una serie de fenómenos sobrenaturales.</desc>
-        <icon src="https://images.pluto.tv/series/67404978091e240013216a73/tile_1768598283780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308140246 +0000" stop="20260308155846 +0000">
+        <title>Abajo el amor</title>
+        <desc>En Nueva York de 1963, una columnista de consejos de mujer que menosprecia el amor se enamora de un galán decidido a cautivarla.</desc>
+        <icon src="https://images.pluto.tv/series/6076b66a235736001ac4439f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308155846 +0000" stop="20260308182246 +0000">
+        <title>Historia de una pasión</title>
+        <desc>¿Quién fue Emily Dickinson? ¿Quién se escondía detrás de la poetisa que paso la mayor parte de su vida en casa de sus padres? La mansión en la que vivió sirve de telón de fondo al retrato de una mujer nada convencional de la que se sabe muy poco.</desc>
+        <icon src="https://images.pluto.tv/series/60d0435028f1d30013ed3400/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260308052700 +0000" stop="20260308062200 +0000">
         <title>Crimen en cámara</title>
@@ -10918,6 +10923,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>¿Quién fue Emily Dickinson? ¿Quién se escondía detrás de la poetisa que paso la mayor parte de su vida en casa de sus padres? La mansión en la que vivió sirve de telón de fondo al retrato de una mujer nada convencional de la que se sabe muy poco.</desc>
         <icon src="https://images.pluto.tv/series/60d0435028f1d30013ed3400/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="63d3da01c111bc0008ce65d0" start="20260308182246 +0000" stop="20260308201003 +0000">
+        <title>Juana de Arco</title>
+        <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 1.</desc>
+        <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64ddcbb14c5ed80008fad416" start="20260308133500 +0000" stop="20260308143000 +0000">
         <title>Crimen en cámara</title>
         <desc>El cadáver quemado de una mujer aparece abandonado de noche junto a una carretera sin salida en el condado de Pierce, Washington, el 24 de octubre de 2017.</desc>
@@ -15293,6 +15303,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>The Weakest Binks</title>
         <desc>Darts gets ruthless as face-to-face eliminations hit the oche, feat. George Killington, Henry Coates and more!</desc>
         <icon src="https://images.pluto.tv/series/699c993477bd3640de3838d3/tile_1771870516966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67164414e40c4a00087f450d" start="20260308184200 +0000" stop="20260308192900 +0000">
+        <title>Royal Rumble: Darts Edition</title>
+        <desc>Darts enters Royal Rumble territory with elimination chaos, rising tension, and one last player standing!</desc>
+        <icon src="https://images.pluto.tv/series/6977adfeb06fa36c2ba8fab3/tile_1769451007912.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67517fae5534bb0008187997" start="20260308140000 +0000" stop="20260308143000 +0000">
         <title>Actualidad 360</title>
