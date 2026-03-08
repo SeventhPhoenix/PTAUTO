@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: Config
 
     steps:
       - name: Checkout repo
@@ -21,12 +22,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Inject secret into config.json
-        run: |
-          jq '.clientID = "${{ secrets.CLIENT_ID }}"' config.json > tmp.json
-          mv tmp.json config.json
-
       - name: Run scraper
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
         run: node index.js
 
       - name: Commit files
