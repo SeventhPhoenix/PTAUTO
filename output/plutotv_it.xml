@@ -1546,6 +1546,11 @@ Estrella Invitada: Vicky McClure.</desc>
         <desc>Un galán vendedor de viagra sin sentido, dirección o responsabilidad se enamora de una mujer de espíritu libre.</desc>
         <icon src="https://images.pluto.tv/series/6076b680235736001ac445bb/tile_1768605842175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260308041701 +0000" stop="20260308055901 +0000">
+        <title>Un vecino con pocas luces</title>
+        <desc>Una comedia familiar sobre la envidia, conflictos de vecinos, decoración del hogar... y el espíritu navideño.</desc>
+        <icon src="https://images.pluto.tv/series/6076b668235736001ac44373/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac2591dd8880007bb7d6d" start="20260307221152 +0000" stop="20260308001452 +0000">
         <title>Junglee: Alma Salvaje</title>
         <desc>Un veterano de guerra vuelve a casa, a la reserva de elefantes de su padre, donde tendrá que luchar contra unos cazadores furtivos.</desc>
@@ -20087,6 +20092,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Historia que tú hiciste</title>
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260308161500 +0000" stop="20260308163000 +0000">
+        <title>Ciudad Real Madrid</title>
+        <desc>La emisión de los partidos de la cantera del Real Madrid y la actualidad del primer equipo de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39928/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260308105800 +0000" stop="20260308133700 +0000">
         <title>1998 FIFA World Cup</title>

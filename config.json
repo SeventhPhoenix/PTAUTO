@@ -20,5 +20,6 @@
   "xTvgUrl": false,
   "ondemand": false,
   "vlcopts": false,
-  "pipeopts": false
+  "pipeopts": false,
+  "clientID": "725b5daa-e121-41a1-ba17-997b51c5331c"
 }
