@@ -29728,6 +29728,11 @@ Derek Zoolander, ganador tres veces del premio al modelo del año, está destroz
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260309231500 +0000" stop="20260310000500 +0000">
+        <title>45 Minutos</title>
+        <desc>Espacio con los resúmenes de los mejores partidos jugados por el Real Madrid.</desc>
+        <icon src="https://images.pluto.tv/series/662295234da6e30013fbcd93/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260309173100 +0000" stop="20260309192100 +0000">
         <title>1990 FIFA World Cup Final: Germany vs. Argentina</title>
         <desc>Watch the full replay from the match between Germany FR and Argentina.</desc>
@@ -30041,6 +30046,11 @@ Derek Zoolander, ganador tres veces del premio al modelo del año, está destroz
     <programme channel="69148c470155f9b136b5d856" start="20260309130000 +0000" stop="20260309233000 +0000">
         <title>Snooker</title>
         <desc>Professional players compete against each other during a prominent snooker championship in a bid to emerge victorious and win the prestigious title.</desc>
+        <icon src="https://images.pluto.tv/series/69344604a458a400fb1401a6/tile_1765033517883.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69148c470155f9b136b5d856" start="20260309233000 +0000" stop="20260310040000 +0000">
+        <title>Snooker</title>
+        <desc>Live coverage from a top-level snooker event on the International circuit.</desc>
         <icon src="https://images.pluto.tv/series/69344604a458a400fb1401a6/tile_1765033517883.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1aca8310a30e00074fab92" start="20260309214958 +0000" stop="20260309233358 +0000">
@@ -30515,7 +30525,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Cuando el entrenador de un equipo de baloncesto local vete la entrada al gimnasio a sus jugadores después de que éstos hubiesen suspendido los exámenes alterará el destino de muchas vidas en el pueblo.</desc>
         <icon src="https://images.pluto.tv/series/5f6062e35e6bed001a9cb3ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac1f1b66c76000790ef27" start="20260309235041 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260309235041 +0000" stop="20260310021641 +0000">
+        <title>Los amos de Brooklyn</title>
+        <desc>Tres policías de Brooklyn, sin conexión entre ellos y con carreras muy diferentes entre sí, coincidirán durante una multitudinaria redada en la zona más peligrosa y criminalizada de Brooklyn.</desc>
+        <icon src="https://images.pluto.tv/series/5f4e181dfa72a5001a5fa4ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260310021641 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Cine Estelar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30525,7 +30540,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Corre el año 1941 y los judíos de Europa Oriental están siendo masacrados a millares. En la Bielorrusia ocupada, tres hermanos logran escapar de una muerte segura y se refugian en los densos bosques de alrededor de su casa, que conocen desde su infancia.</desc>
         <icon src="https://images.pluto.tv/series/68ef4d8533c9798391251717/tile_1760513440337.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260309231924 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260309231924 +0000" stop="20260310005509 +0000">
+        <title>Tracers</title>
+        <desc>Thriller de acción que gira en torno a Cam (Taylor Lautner, Sin salida (Abduction), La saga Crepúsculo: Amanecer - Parte 2), un mensajero que recorre las calles de la moderna New York montado en bicicleta.</desc>
+        <icon src="https://images.pluto.tv/series/68e8b5fb393a03f3e31d8270/tile_1760088298375.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20260310005509 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Cine Acción</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30535,7 +30555,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Una rivalidad motivada por la cafeína y el machismo entre Nick y Russell, dos controladores aéreos muy competitivos, donde el ganador podría perderlo todo.</desc>
         <icon src="https://images.pluto.tv/series/6076b691235736001ac44767/tile_1768605842098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8099c49f600076579b2" start="20260309235207 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1ac8099c49f600076579b2" start="20260309235207 +0000" stop="20260310012726 +0000">
+        <title>3 Holiday Tails</title>
+        <desc>David and Lisa are meant to be together, but they haven't figured that out yet! With help from family, friends, and four lovable dogs, this couple will truly have a Christmas to remember.</desc>
+        <icon src="https://images.pluto.tv/series/6964f488262748e8585cc1ce/tile_1768223881533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20260310012726 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Cine Comedia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage_1769092378954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30585,7 +30610,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Las tensiones entre Karen y Ashley explotan en el piso de ventas y cuando Les descubre que Ashley ha desterrado a Karen a una sala de almacenamiento, las pone a las dos en la caseta del perro.</desc>
         <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60218baa464ef900073168c1" start="20260309230500 +0000" stop="20260310030000 +0000">
+    <programme channel="60218baa464ef900073168c1" start="20260309230500 +0000" stop="20260309232800 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Les se embarca en una juerga de compras que deja a su personal preguntándose qué está pasando.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20260309232800 +0000" stop="20260309235200 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Un artista de shakedown intenta hacerle una oferta a Les que no puede rechazar, pero los Gold se defienden y le dan la vuelta al timador. Seth y Karen sienten el poder de la fuerza cuando un cliente trae un par de sables de luz de alta gama.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20260309235200 +0000" stop="20260310001600 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Ashley le hace una broma a Seth para enseñarle una lección sobre cómo cerrar la puerta, pero Seth iguala la puntuación con una broma propia.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20260310001600 +0000" stop="20260310030000 +0000">
         <title>Empeños a lo bestia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30595,7 +30635,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Dave negoció por el Corvette de 1957 de sus sueños hace más de tres décadas, pero el auto llegó en pedazos. Desde bellotas en el motor, hasta miles de piezas que no coinciden.</desc>
         <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1769124241549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6080345ebb49b90007ce0baf" start="20260309230200 +0000" stop="20260310030000 +0000">
+    <programme channel="6080345ebb49b90007ce0baf" start="20260309230200 +0000" stop="20260309235100 +0000">
+        <title>FantomWorks: Todo por ole Miss</title>
+        <desc>Sean le pide a Dan que transforme un Camaro de 1969 en el restomod personalizado de sus sueños. Pero primero, Dan tiene que encontrarle el auto.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1769124241549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080345ebb49b90007ce0baf" start="20260309235100 +0000" stop="20260310004000 +0000">
+        <title>FantomWorks: Legado</title>
+        <desc>Tom le pide a Dan que le busque un Camaro Convertible de 1967 poco común con aire acondicionado de fábrica para su novia. Pero cuando Dan encuentra el Unicornio, el auto es demasiado bueno para cortarlo.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1769124241549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080345ebb49b90007ce0baf" start="20260310004000 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Motor</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30615,7 +30665,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Richard Hammond prueba el gloriosamente genial SLR de Mercedes.</desc>
         <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1769123881947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d356a534f63f000850cdd7" start="20260309235940 +0000" stop="20260310030000 +0000">
+    <programme channel="60d356a534f63f000850cdd7" start="20260309235940 +0000" stop="20260310010740 +0000">
+        <title>Top Gear: Temporada 3, Episodio 8</title>
+        <desc>¿Qué coche te puedes comprar con 10 000 libras? Top Gear lo averigua.</desc>
+        <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1769123881947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d356a534f63f000850cdd7" start="20260310010740 +0000" stop="20260310030000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/featuredImage_1760687705283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30625,7 +30680,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>César Millán, "El encantador de perros", aborda los problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, es un entrenamiento de gente para que adiestren perros.</desc>
         <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1769114883041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e45687313c5f0007bc8e94" start="20260309233800 +0000" stop="20260310030000 +0000">
+    <programme channel="60e45687313c5f0007bc8e94" start="20260309233800 +0000" stop="20260310003500 +0000">
+        <title>El encantador de perros: Pasha, Cosmo, &amp; Contessa</title>
+        <desc>César Millán, "El encantador de perros", aborda los problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, es un entrenamiento de gente para que adiestren perros.</desc>
+        <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1769114883041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e45687313c5f0007bc8e94" start="20260310003500 +0000" stop="20260310030000 +0000">
         <title>El encantador de perros</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30635,7 +30695,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Casie está tan afectada por la repentina muerte de su marido, Shawn, que lleva su urna a todas partes. Pero ahora ha empezado a comer sus cenizas.</desc>
         <icon src="https://images.pluto.tv/series/6181178e54ba66001a691b16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e4573c9f963e00077ecf25" start="20260309232600 +0000" stop="20260310030000 +0000">
+    <programme channel="60e4573c9f963e00077ecf25" start="20260309232600 +0000" stop="20260310002300 +0000">
+        <title>Mi Extraña Obsesión: Mi Extraña Obsesión Especial 2</title>
+        <desc>En este especial de una hora, volvemos a ver a seis de nuestros adictos cuyas historias conmovieron al mundo. Sintonice este episodio especial con imágenes exclusivas nunca vistas.</desc>
+        <icon src="https://images.pluto.tv/series/6181178e54ba66001a691b16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4573c9f963e00077ecf25" start="20260310002300 +0000" stop="20260310030000 +0000">
         <title>Mi Extraña Obsesión</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30645,7 +30710,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Despertar después de la primera noche memorable en Gandía es todo un desafío, pero hoy no se permiten las mentiras. El elenco se dirige a "El Budha", el bar de la playa donde estarán trabajando todo el verano.</desc>
         <icon src="https://images.pluto.tv/series/62f60aafb80401001a300052/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61b87bc867b03a0007864e0d" start="20260309230742 +0000" stop="20260310030000 +0000">
+    <programme channel="61b87bc867b03a0007864e0d" start="20260309230742 +0000" stop="20260310000142 +0000">
+        <title>Gandía Shore: Episodio 103</title>
+        <desc>Si bien a los chicos les va bien en el bar de la playa, las chicas parecen tener problemas en el trabajo, especialmente después de largas noches de fiesta. La relación de Ylenia y Labrador se calienta cada minuto, pegados las 24 horas.</desc>
+        <icon src="https://images.pluto.tv/series/62f60aafb80401001a300052/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b87bc867b03a0007864e0d" start="20260310000142 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/featuredImage_1748526678616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30655,7 +30725,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Joe recibe una visita negativa de Transport Canada cuando los inspectores amenazan con cerrar la aerolínea.</desc>
         <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1762175147993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61b9edc4a4ca6100070bb407" start="20260309230050 +0000" stop="20260310030000 +0000">
+    <programme channel="61b9edc4a4ca6100070bb407" start="20260309230050 +0000" stop="20260309235050 +0000">
+        <title>Pilotos Del Ártico: Historias de dos pilotos</title>
+        <desc>Abrumado por la responsabilidad de entrenar a un nuevo rampie y luchando por salir de la caseta del perro de Joe, el copiloto del DC-3 Tyler tiene una oportunidad única en la vida.</desc>
+        <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1762175147993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b9edc4a4ca6100070bb407" start="20260309235050 +0000" stop="20260310004050 +0000">
+        <title>Pilotos Del Ártico: Atasco en el hielo</title>
+        <desc>Después de tomar el mando de un puente aéreo intenso y lidiar con la carga de Electra más fea que jamás haya visto, Scott sufre una aterradora caída sobre el asfalto helado.</desc>
+        <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1762175147993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b9edc4a4ca6100070bb407" start="20260310004050 +0000" stop="20260310030000 +0000">
         <title>Ice Pilots</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30665,7 +30745,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
         <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1769130363602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6335a6b6e6f7a600076e589e" start="20260309230900 +0000" stop="20260310030000 +0000">
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260309230900 +0000" stop="20260309233300 +0000">
+        <title>Auction Hunters: Recaudar fondos</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1769130363602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260309233300 +0000" stop="20260309235700 +0000">
+        <title>Auction Hunters: Dinero fácil</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1769130363602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260309235700 +0000" stop="20260310002100 +0000">
+        <title>Auction Hunters: Pasta y vudú</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1769130363602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260310002100 +0000" stop="20260310030000 +0000">
         <title>Cazasubastas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30675,7 +30770,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>En este wéstern “moderno”, el perverso Juez Josh gobierna una pequeña ciudad de California.</desc>
         <icon src="https://images.pluto.tv/series/5ff2ee75eff9b2001a7f5bc5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645a309c5a0cd5000873f609" start="20260309232142 +0000" stop="20260310030000 +0000">
+    <programme channel="645a309c5a0cd5000873f609" start="20260309232142 +0000" stop="20260310013742 +0000">
+        <title>The unthinkable: The unthinkable</title>
+        <desc>Suecia se enfrenta a un misterioso y desconocido ataque. No hay tanques ni ejércitos enemigos acechando, sino sistemas informáticos que se caen repentinamente e instalaciones o infraestructuras que explotan de repente.</desc>
+        <icon src="https://images.pluto.tv/series/6299d395ba369d001340ea69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a309c5a0cd5000873f609" start="20260310013742 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Catástrofes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30685,7 +30785,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Crystal Mangum conoció el sexo y la violencia a una edad temprana. Tras ser diagnosticada de trastorno de estrés postraumático por una supuesta violación en grupo cuando tenía 14 años, intenta encauzar su vida.</desc>
         <icon src="https://images.pluto.tv/series/66e3ee306ec6ad00136d205f/tile_1769197321262.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a3f200f238ce0008d47247" start="20260309233944 +0000" stop="20260310030000 +0000">
+    <programme channel="64a3f200f238ce0008d47247" start="20260309233944 +0000" stop="20260310002958 +0000">
+        <title>Mapas de Asesinatos</title>
+        <desc>Peter Manuel fue un asesino en serie escocés que mató al menos a ocho personas entre 1956 y 1958 en el área del Gran Glasgow en Escocia.</desc>
+        <icon src="https://images.pluto.tv/series/663df89d4d780d001305d659/tile_1769198761236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a3f200f238ce0008d47247" start="20260310002958 +0000" stop="20260310030000 +0000">
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30695,7 +30800,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Plagados de problemas con los camiones, Robin y su equipo corren para hacer un suministro de combustible antes de que el equipo se agote.</desc>
         <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1769120641751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65254e8d81f9420008342cee" start="20260309232256 +0000" stop="20260310030000 +0000">
+    <programme channel="65254e8d81f9420008342cee" start="20260309232256 +0000" stop="20260309234725 +0000">
+        <title>La Fiebre del Jade: Cresta a La Riqueza</title>
+        <desc>Robin choca con Claudia y Josh por la calidad del jade que sale de su pozo, mientras que el intento de Larry de ayudar a llevar el barracón de la tripulación al campamento fracasa.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1769120641751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20260309234725 +0000" stop="20260310001153 +0000">
+        <title>La Fiebre del Jade: Litera o Busto</title>
+        <desc>Los malos frenos, los nervios agotados y un camino en mal estado hacen que Claudia dude que su equipo pueda transportar su enorme barraca hasta el campamento de una sola pieza.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1769120641751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20260310001153 +0000" stop="20260310030000 +0000">
         <title>La fiebre del Jade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65254e8d81f9420008342cee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30705,7 +30820,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Un conductor se escapa y finge ser un cliente de lavandería. Los planes de la fiesta se cancelan cuando un joven educado es detenido. Una mujer está angustiada porque el exnovio no la deja entrar.</desc>
         <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6554bd45aa9ffb00088e5589" start="20260309230937 +0000" stop="20260310030000 +0000">
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260309230937 +0000" stop="20260309233308 +0000">
+        <title>Cops: Descifrar el código</title>
+        <desc>Un sospechoso en propiedad privada hace preguntas en lugar de responderlas. Los policías descubren una gran cantidad de contrabando durante un retén. Un adicto viene a visitar y la policía ayuda.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260309233308 +0000" stop="20260309235639 +0000">
+        <title>Cops: Apenas allí</title>
+        <desc>Un hombre desnudo y delirante está en el porche de su vecino. Un conductor trata de correr, pero deja los zapatos atrás. Una pareja tiene dificultad en seguir adelante después de un evento trágico.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260309235639 +0000" stop="20260310002010 +0000">
+        <title>Cops: Más densa que el agua</title>
+        <desc>Una familia llama a la policía porque hay un extraño en su casa. La policía encuentra cosas desagradables en el coche del hijo de una señora. Las tensiones entre un joven y su padrastro llegan a su límite.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260310002010 +0000" stop="20260310030000 +0000">
         <title>COPS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30725,7 +30855,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Lori llega al límite con las damas de honor más irrespetuosas que ha conocido. Un grupo intenta apartar a una novia del vestido de sus sueños mientras que otro intenta empujarla a comprar uno que no puede permitirse.</desc>
         <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1769195881234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6578836cdfed030008ce5bdb" start="20260309231528 +0000" stop="20260310030000 +0000">
+    <programme channel="6578836cdfed030008ce5bdb" start="20260309231528 +0000" stop="20260309233930 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>Los problemas corporales dominan el panorama nupcial hoy en día.  Lori y su equipo deben ayudar a estas damas a superar los obstáculos que amenazan con mermar su autoestima y a encontrar la confianza necesaria para ser la novia que desean ser.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1769195881234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20260309233930 +0000" stop="20260310000333 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>Cuando el presupuesto de mamá se pone en entredicho, el vestido soñado de una novia está en juego.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1769195881234.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20260310000333 +0000" stop="20260310030000 +0000">
         <title>Sí quiero ese vestido</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30735,7 +30875,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>La subida a la colina de Pikes Peak de 1987. Un tipo de carrera bastante diferente en las montañas de Colorado, EE.UU.. Es única, fascinante y llena de aventura.</desc>
         <icon src="https://images.pluto.tv/series/60d31c68fad1f80013b34fd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65bd0f53dc10a40008e68b96" start="20260309230600 +0000" stop="20260310030000 +0000">
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260309230600 +0000" stop="20260309233600 +0000">
+        <title>Classic Races: Carreras del Gran Premio desde 1934</title>
+        <desc>Desde 1934, el Gran Premio ha sido el campeonato mundial más emocionante y fascinante del mundo. Con sus vehículos de última generación, con los caballos de potencia de las marcas más grandes, nunca deja de impresionar a sus espectadores.</desc>
+        <icon src="https://images.pluto.tv/series/60d31c68fad1f80013b34fd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260309233600 +0000" stop="20260310000400 +0000">
+        <title>Classic Races: Año de Rallye 1972 - Una historia de éxito de Ford</title>
+        <desc>El campeonato internacional de fabricantes fue una serie de rallyes que se desarrolló entre 1970 y 72. Fabricantes de coches como Porsche, Renault y Ford participaron, con Ford teniendo un año excepcionalmente exitoso en 1972.</desc>
+        <icon src="https://images.pluto.tv/series/60d31c68fad1f80013b34fd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260310000400 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Gasolina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/featuredImage_1747382174478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30755,7 +30905,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Solo los creadores de contenido más representativos de la Generación Z tienen un espacio en nuestro canal exclusivo Ubeat LITE. Programas de televisión “hechos a medida” en torno a algunos de los creadores jóvenes más carismáticos de España y LATAM.</desc>
         <icon src="https://images.pluto.tv/series/68bac08e665c21123672391b/tile_1757658393756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66448a5a8ce31100086ae45e" start="20260309233000 +0000" stop="20260310030000 +0000">
+    <programme channel="66448a5a8ce31100086ae45e" start="20260309233000 +0000" stop="20260310000000 +0000">
+        <title>Ubeat Lite</title>
+        <desc>Solo los creadores de contenido más representativos de la Generación Z tienen un espacio en nuestro canal exclusivo Ubeat LITE. Programas de televisión “hechos a medida” en torno a algunos de los creadores jóvenes más carismáticos de España y LATAM.</desc>
+        <icon src="https://images.pluto.tv/series/68bac08e665c21123672391b/tile_1757658393756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66448a5a8ce31100086ae45e" start="20260310000000 +0000" stop="20260310003000 +0000">
+        <title>Ubeat Lite</title>
+        <desc>Solo los creadores de contenido más representativos de la Generación Z tienen un espacio en nuestro canal exclusivo Ubeat LITE. Programas de televisión “hechos a medida” en torno a algunos de los creadores jóvenes más carismáticos de España y LATAM.</desc>
+        <icon src="https://images.pluto.tv/series/68bac08e665c21123672391b/tile_1757658393756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66448a5a8ce31100086ae45e" start="20260310003000 +0000" stop="20260310030000 +0000">
         <title>Ubeat lite</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66448a5a8ce31100086ae45e/featuredImage_1748000362683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30775,7 +30935,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>La competencia se complica cuando las participantes ponen a prueba sus habilidades de alta costura durante un viaje sorpresa a Italia.</desc>
         <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1761556681989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd84603ad75cfd132d672" start="20260309230803 +0000" stop="20260310030000 +0000">
+    <programme channel="686cd84603ad75cfd132d672" start="20260309230803 +0000" stop="20260309235639 +0000">
+        <title>America's Next Top Model</title>
+        <desc>En este episodio especial, se muestran los puntos culminantes de los momentos más dramáticos e imágenes extra.</desc>
+        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1761556681989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd84603ad75cfd132d672" start="20260309235639 +0000" stop="20260310004445 +0000">
+        <title>America's Next Top Model</title>
+        <desc>Una noche de pasión en la romántica ciudad de Milán tiene consecuencias.</desc>
+        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1761556681989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd84603ad75cfd132d672" start="20260310004445 +0000" stop="20260310030000 +0000">
         <title>America's Next Top Model</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage_1751963785439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30785,7 +30955,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Las Salazar llegan a Bali y emprenden la búsqueda de 'brilli-telas' para su negocio. El lugar es un paraíso, se sienten como peces en el agua, pero el choque de culturas con los ‘peces’ de la zona complicará las cosas.</desc>
         <icon src="https://images.pluto.tv/series/68ad87088eef10068fc0d358/tile_1769022001151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68adc3fdd8f7693ae347a63a" start="20260309230707 +0000" stop="20260310030000 +0000">
+    <programme channel="68adc3fdd8f7693ae347a63a" start="20260309230707 +0000" stop="20260310003909 +0000">
+        <title>Gipsy Kings</title>
+        <desc>Involucrados en el reto de Mariano, los Fernández Navarro acudirán a un túnel de viento en Madrid para, literalmente, volar. Los Fernández Navarro comprobarán la sensación que se siente estando por los aires</desc>
+        <icon src="https://images.pluto.tv/series/68ad87088eef10068fc0d358/tile_1769022001151.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc3fdd8f7693ae347a63a" start="20260310003909 +0000" stop="20260310030000 +0000">
         <title>Los Gipsy Kings</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/featuredImage_1758662358752.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30795,7 +30970,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Francisco Zea relata como una camioneta termina atascada en un toldo, un ladrón es descubierto por su cajuela y el rescate un joven.</desc>
         <icon src="https://images.pluto.tv/series/68872806cb153898340fdab5/tile_1753688084751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68adc697116b783a33f99e6c" start="20260309230851 +0000" stop="20260310030000 +0000">
+    <programme channel="68adc697116b783a33f99e6c" start="20260309230851 +0000" stop="20260309233445 +0000">
+        <title>Captura exitosa: Episodio 13</title>
+        <desc>Francisco Zea muestra una persecución que termina en un choque, un auto que se estrella al intentar escapar y dos hombres intentando cruzar la frontera.</desc>
+        <icon src="https://images.pluto.tv/series/68872806cb153898340fdab5/tile_1753688084751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20260309233445 +0000" stop="20260310000223 +0000">
+        <title>Captura exitosa: Episodio 14</title>
+        <desc>Los relatos de Francisco Zea muestran un tráiler fuera de control, tres ladrones que buscan huir a pie y un intento de robo en plena noche.</desc>
+        <icon src="https://images.pluto.tv/series/68872806cb153898340fdab5/tile_1753688084751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20260310000223 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Impacto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/featuredImage_1760448744320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30815,7 +31000,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
         <icon src="https://images.pluto.tv/series/624d4a09ffa0a9001399688b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abce155a03d0007718834" start="20260309233640 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1abce155a03d0007718834" start="20260309233640 +0000" stop="20260310002240 +0000">
+        <title>La hora de José Mota: Por el humo se sabe dónde está el fuego</title>
+        <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
+        <icon src="https://images.pluto.tv/series/624d4a09ffa0a9001399688b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abce155a03d0007718834" start="20260310002240 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Comedia made in Spain</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30825,7 +31015,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Hits on the playlist include "Rude," "Keep Your Head Up" and "#SELFIE."</desc>
         <icon src="https://images.pluto.tv/series/68dba397fa0f5ccff57365b8/tile_1759224728925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260309230100 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260309230100 +0000" stop="20260309233300 +0000">
+        <title>FailArmy Playlist</title>
+        <desc>Hits on the playlist include "Mess Around," "Break Even" and "Hit the Floor."</desc>
+        <icon src="https://images.pluto.tv/series/68dba397fa0f5ccff57365b8/tile_1759224728925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260309233300 +0000" stop="20260310000500 +0000">
+        <title>FailArmy Playlist</title>
+        <desc>Hits on the playlist include "My Separate Reality," "Stupid Things" and "Sick and Tired."</desc>
+        <icon src="https://images.pluto.tv/series/68dba397fa0f5ccff57365b8/tile_1759224728925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20260310000500 +0000" stop="20260310030000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30835,7 +31035,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Sketches: agencia de viajes; dj tibur; el katxi: caso urdangarin; nekane amaya en bermeo; goretti: decoradora; i juerga: aplicacion para moviles; iker bengoetxea.</desc>
         <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f28009b150b2500077766b8" start="20260309231100 +0000" stop="20260310030000 +0000">
+    <programme channel="5f28009b150b2500077766b8" start="20260309231100 +0000" stop="20260310000200 +0000">
+        <title>Vaya Semanita: Episode 83</title>
+        <desc>Video: basque eguraldi center. Sketches: el katxi: partido del athletic; atencion al cliente; nekane amaya: controles de la guardia civil y la ertzaintza.</desc>
+        <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f28009b150b2500077766b8" start="20260310000200 +0000" stop="20260310030000 +0000">
         <title>Vaya semanita</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f28009b150b2500077766b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30845,7 +31050,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>¡Guaypaut! es una trepidante carrera de obstáculos que únicamente superarán aquellos concursantes que estén dotados de los mayores niveles de agilidad, destreza y fortaleza física.</desc>
         <icon src="https://images.pluto.tv/series/609a850672e8e300148aedc4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8125c6669b00077f7699" start="20260309233700 +0000" stop="20260310030000 +0000">
+    <programme channel="604f8125c6669b00077f7699" start="20260309233700 +0000" stop="20260310005900 +0000">
+        <title>¡Guaypaut!: Episodio 6</title>
+        <desc>¡Guaypaut! es una trepidante carrera de obstáculos que únicamente superarán aquellos concursantes que estén dotados de los mayores niveles de agilidad, destreza y fortaleza física.</desc>
+        <icon src="https://images.pluto.tv/series/609a850672e8e300148aedc4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8125c6669b00077f7699" start="20260310005900 +0000" stop="20260310030000 +0000">
         <title>Wipeout</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8125c6669b00077f7699/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30855,7 +31065,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Sakura y los demás van a la colina que hay detrás de la escuela para comprobar el rumor de avistamientos de fantasmas. Pero en lugar de un fantasma, aparece la figura de la madre de Sakura.</desc>
         <icon src="https://images.pluto.tv/series/649c01d09cb24a00139cbd1e/tile_1769129284074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608035b8d8705f0007260287" start="20260309230542 +0000" stop="20260310030000 +0000">
+    <programme channel="608035b8d8705f0007260287" start="20260309230542 +0000" stop="20260309233342 +0000">
+        <title>Cardcaptor Sakura ES: La primera batalla de Sakura contra un misterioso ladrón</title>
+        <desc>En la excursión al Museo de Arte, Sakura se da cuenta de que un niño está causando alboroto delante de un cuadro. En ese momento, Sakura percibe que no oye nada. Sospechando que se trate de una Carta de Clow…</desc>
+        <icon src="https://images.pluto.tv/series/649c01d09cb24a00139cbd1e/tile_1769129284074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20260309233342 +0000" stop="20260310000142 +0000">
+        <title>Cardcaptor Sakura ES: El rival de Sakura</title>
+        <desc>Un chico nuevo llamado Shaoran, se une a la clase de Sakura. Curiosamente, Shaoran también colecciona las cartas de Clow.</desc>
+        <icon src="https://images.pluto.tv/series/649c01d09cb24a00139cbd1e/tile_1769129284074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608035b8d8705f0007260287" start="20260310000142 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608035b8d8705f0007260287/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30865,7 +31085,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>“Así en el barrio como en el cielo" es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida. Una historia que pone en evidencia que las personas, sin importar su clase social, se asemejan mucho más de lo que parece.</desc>
         <icon src="https://images.pluto.tv/series/638f24394f35ef001367971b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60b4c06717da110007ee1af6" start="20260309231718 +0000" stop="20260310030000 +0000">
+    <programme channel="60b4c06717da110007ee1af6" start="20260309231718 +0000" stop="20260310000518 +0000">
+        <title>Así en el barrio como en el cielo: Capítulo 28</title>
+        <desc>“Así en el barrio como en el cielo" es un cuento sobre los altibajos de la fortuna y el amor, sobre la impredecible vida. Una historia que pone en evidencia que las personas, sin importar su clase social, se asemejan mucho más de lo que parece.</desc>
+        <icon src="https://images.pluto.tv/series/638f24394f35ef001367971b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60b4c06717da110007ee1af6" start="20260310000518 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Telenovelas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30885,7 +31110,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El estrés puede producir efectos poderosos y destructivos. Puede debilitar tanto el cuerpo, como la mente. Puede detariorar las relaciones. Incluso puede hacer que un alma se haga vulnerable a lo sobrenatural.</desc>
         <icon src="https://images.pluto.tv/series/609532f00c3a580013e2bc76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20260309235405 +0000" stop="20260310030000 +0000">
+    <programme channel="612ce5214bb5790007ad3016" start="20260309235405 +0000" stop="20260310004905 +0000">
+        <title>Historias de Ultratumba: El Llamado</title>
+        <desc>Todos tenemos secretos. Algunos de nosotros ocultamos cosas a nuestros amigos para evitar la vergüenza. Otros las ocultamos a nuestros seres queridos, porque tenemos el temor de que piensen menos de nosotros.</desc>
+        <icon src="https://images.pluto.tv/series/609532f00c3a580013e2bc76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612ce5214bb5790007ad3016" start="20260310004905 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30895,7 +31125,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Romance y suspense en Paris, donde una mujer es perseguida por varios hombres que quieren la fortuna que su difunto esposo ha robado.</desc>
         <icon src="https://images.pluto.tv/series/615eaa9a74755c001a4c993c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61373bb45168fe000773eecd" start="20260309232404 +0000" stop="20260310030000 +0000">
+    <programme channel="61373bb45168fe000773eecd" start="20260309232404 +0000" stop="20260310004604 +0000">
+        <title>El beso de la muerte</title>
+        <desc>El asesinato durante el rodaje de una película provoca la búsqueda de un asesino.</desc>
+        <icon src="https://images.pluto.tv/series/615eaae574755c001a4ca26b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373bb45168fe000773eecd" start="20260310004604 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Cine Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373bb45168fe000773eecd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30915,7 +31150,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El pueblo de South Park debe defenderse de ser absorbido por Nueva Jersey y sus estrellas de reality shows.</desc>
         <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1769114881697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="628751bb7154a40007168843" start="20260309230031 +0000" stop="20260310030000 +0000">
+    <programme channel="628751bb7154a40007168843" start="20260309230031 +0000" stop="20260309232531 +0000">
+        <title>South Park: Centipad humano</title>
+        <desc>Después de no leer la letra pequeña de un contrato, Kyle es secuestrado por Apple, que tiene grandes planes para él. Depende de los chicos que lo rescaten.</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1769114881697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20260309232531 +0000" stop="20260309235031 +0000">
+        <title>South Park: Pudin real</title>
+        <desc>Después de que hayan secuestrado a la princesa canadiense durante su boda, Canadá convoca a Ike para ayudar a localizarla. ¿Qué clase de bestia cometería semejante crimen?</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1769114881697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20260309235031 +0000" stop="20260310001531 +0000">
+        <title>South Park: Combustión espontánea</title>
+        <desc>Los ciudadanos de South Park empiezan a explotar al azar; será el momento en el que el padre de Stan, un reconocido geólogo, tenga que encontrar una solución al problema.</desc>
+        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1769114881697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="628751bb7154a40007168843" start="20260310001531 +0000" stop="20260310030000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/featuredImage_1755153575393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30925,7 +31175,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>En medio de la conmoción raptan a Ai, Pisco la ha encerrado en una bodega aunque le han retenido como sospechoso del asesinato junto a otras seis personas. Ai se toma un licor chino llamado Paikal y recupera su cuerpo original.</desc>
         <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1771323788171.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="629a066860ef810008267b70" start="20260309230824 +0000" stop="20260310030000 +0000">
+    <programme channel="629a066860ef810008267b70" start="20260309230824 +0000" stop="20260309233524 +0000">
+        <title>Detective Conan: El  camión empotrado en la cafetería</title>
+        <desc>Mientras la liga juvenil de detectives se está tomando algo en una cafetería un camión se empotra contra la ventana resultando muerto un hombre.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1771323788171.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20260309233524 +0000" stop="20260310000224 +0000">
+        <title>Detective Conan: Sonata de una pasión homicida (I)</title>
+        <desc>Un importante empresario pide ayuda a Mouri porque está preocupado por las amenazas que está recibiendo su mujer. Tiene una cita con un cantante famoso que resulta muerto.</desc>
+        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1771323788171.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="629a066860ef810008267b70" start="20260310000224 +0000" stop="20260310030000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/629a066860ef810008267b70/featuredImage_1771323495777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30935,7 +31195,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Han pasado meses ya desde la final y también ha llegado la ceremonia de graduación de Mark Evans y sus compañeros. Además de dar un paso adelante en sus vidas, también es el momento de dar un paso al lado.</desc>
         <icon src="https://images.pluto.tv/series/611bb08c73019a0013eb851c/tile_1769569560967.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="632c6df43d2bc5000751f621" start="20260309232300 +0000" stop="20260310030000 +0000">
+    <programme channel="632c6df43d2bc5000751f621" start="20260309232300 +0000" stop="20260309234900 +0000">
+        <title>Inazuma Eleven: ¡Un saque hacia el mañana!</title>
+        <desc>Nadie quiere perderse el que será el último partido de secundaria de Mark y los demás. Hay tantos recuerdos, tantas experiencias vividas alrededor de un balón de fútbol que cuesta ponerles fin...</desc>
+        <icon src="https://images.pluto.tv/series/611bb08c73019a0013eb851c/tile_1769569560967.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20260309234900 +0000" stop="20260310001500 +0000">
+        <title>Inazuma Eleven Go: ¡Un nuevo viento!</title>
+        <desc>Arion Sherwind vive para el fútbol, así que sólo puede acudir a un sitio: el Instituto Raimon, la escuela que formó el Inazuma Japón que hace 10 años ganó el título mundial.</desc>
+        <icon src="https://images.pluto.tv/series/611bb381d24f5e00135c9b65/tile_1769569560850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632c6df43d2bc5000751f621" start="20260310001500 +0000" stop="20260310030000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30955,7 +31225,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Cuando un desafortunado incidente le ocurre a Kenny, Cartman se manifiesta para dejar que Kenny muera para conseguir lo que Kenny le ha dejado en herencia.</desc>
         <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20260309231544 +0000" stop="20260310030000 +0000">
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260309231544 +0000" stop="20260309233944 +0000">
+        <title>South Park VOSE: La muerte de Eric Cartman</title>
+        <desc>Cuando todo el mundo decide ignorar a Cartman, él se convence de que está muerto y de que debe encontrar la paz pidiendo perdón por sus malas acciones pasadas.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260309233944 +0000" stop="20260310000344 +0000">
+        <title>South Park VOSE: Alerta por pedantería</title>
+        <desc>El pueblo de South Park compra coches híbridos. No obstante, cuando la gente empieza a sentirse bien por salvar el planeta, una oscura tormenta cae sobre la ciudad.</desc>
+        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d7a8e5a9957100086bfc23" start="20260310000344 +0000" stop="20260310030000 +0000">
         <title>South Park Versión Original</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30965,7 +31245,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Mai se ha recuperado de su anterior derrota contra Joey convirtiéndose en una mejor duelista. ¿Ha aprendido Yugi de su derrota contra Kaiba, o la derrota emocional sigue pesando en su corazón? La respuesta está en las cartas.</desc>
         <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1769129641325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb96754e83e70008ab8941" start="20260309231100 +0000" stop="20260310030000 +0000">
+    <programme channel="63eb96754e83e70008ab8941" start="20260309231100 +0000" stop="20260309233400 +0000">
+        <title>Yu-Gi-Oh! ES: Las maquinaciones de Keith: Parte 1</title>
+        <desc>Joey busca frenéticamente la carta que le permite entrar en la batalla final, sin darse cuenta de que Bandido Keith se la ha robado. Mientras intenta aceptar el hecho de que Serenity estará ciega para siempre, recibe la ayuda de un nuevo amigo.</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1769129641325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20260309233400 +0000" stop="20260309235800 +0000">
+        <title>Yu-Gi-Oh! ES: Las maquinaciones de Keith: Parte 2</title>
+        <desc>La baraja Máquina de Bandido Keith obliga a Joey a ponerse a la defensiva. Joey copia la estrategia de Keith para metalizar su Dragón B. de Ojos Rojos. ¿Está asegurada la victoria, o el tramposo Bandido Keith tiene una última carta en la manga?</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1769129641325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20260309235800 +0000" stop="20260310002100 +0000">
+        <title>Yu-Gi-Oh! ES: El mejor amigo, el mejor duelista: Parte 1</title>
+        <desc>Orgulloso de su fuerza como duelista en el juego, Joey desafía a Yugi para tener derecho a enfrentarse a Pegasus.</desc>
+        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1769129641325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb96754e83e70008ab8941" start="20260310002100 +0000" stop="20260310030000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30975,7 +31270,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Una escapada perfecta para cuatro amigos se convierte en una lucha por la supervivencia cuando se ven obligados a pelear contra un tiburón experimental.</desc>
         <icon src="https://images.pluto.tv/series/5f523c53db45a1001a79acdd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65786888b228b7000843ad9a" start="20260309233241 +0000" stop="20260310030000 +0000">
+    <programme channel="65786888b228b7000843ad9a" start="20260309233241 +0000" stop="20260310014441 +0000">
+        <title>Creepshow ES</title>
+        <desc>Antología con cinco cuentos terroríficos inspirados en los cómics de terror de EC Comics de los años 50.</desc>
+        <icon src="https://images.pluto.tv/series/637228ed3416c70013e6c7de/tile_1768602602033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786888b228b7000843ad9a" start="20260310014441 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Zombies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786888b228b7000843ad9a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30985,7 +31285,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El teniente Worf se debate entre su lealtad a la Enterprise y su herencia klingon cuando dos fugitivos klingon se apoderan de la nave.</desc>
         <icon src="https://images.pluto.tv/series/6603e9e8a79dde0014ddab98/tile_1769198041677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65786b94cbd0d60008f7e4d9" start="20260309231620 +0000" stop="20260310030000 +0000">
+    <programme channel="65786b94cbd0d60008f7e4d9" start="20260309231620 +0000" stop="20260310001044 +0000">
+        <title>Star Trek: The Next Generation: El arsenal de la libertad</title>
+        <desc>Picard y parte de la tripulación se juegan la vida en un planeta gobernado por un sistema de armamento informatizado.</desc>
+        <icon src="https://images.pluto.tv/series/6603e9e8a79dde0014ddab98/tile_1769198041677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786b94cbd0d60008f7e4d9" start="20260310001044 +0000" stop="20260310030000 +0000">
         <title>Star Trek: The Next Generation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/featuredImage_1752726860443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30995,7 +31300,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Tuvok desata la ira de los Maquis cuando lo ponen a cargo de un "campo de entrenamiento" diseñado para que alcancen los estándares de la Flota Estelar.</desc>
         <icon src="https://images.pluto.tv/series/664b0198c2d6a900139d2914/tile_1769199121530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65787f2eb228b7000843fa5c" start="20260309230037 +0000" stop="20260310030000 +0000">
+    <programme channel="65787f2eb228b7000843fa5c" start="20260309230037 +0000" stop="20260309235524 +0000">
+        <title>Star Trek Voyager: Los 37</title>
+        <desc>La tripulación explora un planeta remoto habitado por humanos que fueron abducidos por alienígenas en 1937.</desc>
+        <icon src="https://images.pluto.tv/series/664b0198c2d6a900139d2914/tile_1769199121530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65787f2eb228b7000843fa5c" start="20260309235524 +0000" stop="20260310005021 +0000">
+        <title>Star Trek Voyager: Iniciaciones</title>
+        <desc>Chakotay se enfrenta a un enemigo inesperado: un niño kazon que pretende matarlo para lograr el estatus de guerrero.</desc>
+        <icon src="https://images.pluto.tv/series/664b0198c2d6a900139d2914/tile_1769199121530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65787f2eb228b7000843fa5c" start="20260310005021 +0000" stop="20260310030000 +0000">
         <title>Star Trek: Voyager</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31005,7 +31320,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El motor de la creación es capaz de reescribir el universo de acuerdo con los deseos del propietario. Dylan, Beka y Trance deben obtenerlo antes de que alguien con planes oscuros lo reciba.</desc>
         <icon src="https://images.pluto.tv/series/5f6a514fe1625500147efdd7/tile_1768944600958.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ddec1ef7f0af0008be4b65" start="20260309230347 +0000" stop="20260310030000 +0000">
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20260309230347 +0000" stop="20260309235447 +0000">
+        <title>Andrómeda</title>
+        <desc>Un agujero negro noquea a Dylan y lo envía a una realidad alternativa con una esposa y un hijo.</desc>
+        <icon src="https://images.pluto.tv/series/5f6a514fe1625500147efdd7/tile_1768944600958.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20260309235447 +0000" stop="20260310004547 +0000">
+        <title>Andrómeda</title>
+        <desc>La tripulación rescata a uno de los fundadores perdidos de la Mancomunidad, pero descubre que puede ser más problemático de lo que vale.</desc>
+        <icon src="https://images.pluto.tv/series/5f6a514fe1625500147efdd7/tile_1768944600958.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ddec1ef7f0af0008be4b65" start="20260310004547 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Series Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31015,7 +31340,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Cuando aparece un terrorbir durante una incursión, el equipo debe enfrentarse con anomalías que no cerrarán, provocando caos cuando una criatura temible lucha para entrar en casa. Danny reaparece de su viaje a través del valle Rift con una advertencia.</desc>
         <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65dded9a0d456100081417ae" start="20260309231900 +0000" stop="20260310030000 +0000">
+    <programme channel="65dded9a0d456100081417ae" start="20260309231900 +0000" stop="20260310000900 +0000">
+        <title>Primeval: Invasión jurásica: Episodio 1</title>
+        <desc>Una criatura subterránea lleva el caos a la ciudad, forzando al equipo a buscar en las calles para seguir los movimientos de esta bestia viciosa.</desc>
+        <icon src="https://images.pluto.tv/series/611529d6975c210013c1a1d8/tile_1769452201294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65dded9a0d456100081417ae" start="20260310000900 +0000" stop="20260310030000 +0000">
         <title>Primeval</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65dded9a0d456100081417ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31025,7 +31355,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>René le confesó a Yolanda que era adicto a las drogas, ella al principio se sintió muy dolida porque René le había mentido cuando ella le preguntó si era adicto.</desc>
         <icon src="https://images.pluto.tv/series/6654579cbacba500138bd50d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a69daa0a74e00087a1c72" start="20260309231331 +0000" stop="20260310030000 +0000">
+    <programme channel="662a69daa0a74e00087a1c72" start="20260309231331 +0000" stop="20260310001232 +0000">
+        <title>Rubí</title>
+        <desc>Rubi queda abatida al verse sin esperanzas de salvar su unión con Victor A.</desc>
+        <icon src="https://images.pluto.tv/series/694936f8849adb201ee56196/tile_1767973215665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a69daa0a74e00087a1c72" start="20260310001232 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Telenovelas Clásicas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31035,7 +31370,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Un 'superpolicía' fortachón que reniega de su sexualidad se enamora de su nuevo compañero mientras investigan unos robos a bancos donde parece que no se ha robado nada...</desc>
         <icon src="https://images.pluto.tv/series/6502d29c88887a001325d5f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20260309234838 +0000" stop="20260310030000 +0000">
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20260309234838 +0000" stop="20260310011703 +0000">
+        <title>Becky</title>
+        <desc>El fin de semana en un lago de una adolescente que pasa unos días con su padre toma un rumbo inesperado cuando un grupo de convictos aparece de súbito en sus vidas.</desc>
+        <icon src="https://images.pluto.tv/series/66d8122c73aa5100138f878d/tile_1769190841815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20260310011703 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Gore &amp; Slasher</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31045,7 +31385,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Por fin consiguen derrotar a Eric, así que Luffy y compañía se despiden de Apis y se dirigen a cruzar el Red Line con rumbo al Grand Line, pero parece que Eric no está dispuesto a rendirse todavía.</desc>
         <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8992472a7200a183eb5" start="20260309231026 +0000" stop="20260310030000 +0000">
+    <programme channel="680ba8992472a7200a183eb5" start="20260309231026 +0000" stop="20260309233633 +0000">
+        <title>One Piece</title>
+        <desc>Un barco con pasajeros a bordo es asaltado por la capitana de piratas, la malvada Alvida. De pronto, aparece el protagonista Luffy y decide enfrentarse a ella.</desc>
+        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8992472a7200a183eb5" start="20260309233633 +0000" stop="20260310000242 +0000">
+        <title>One Piece</title>
+        <desc>El Capitán Morgan del Ejército de la Marina tiene preso al famoso cazador de piratas Zorro, el Espadachín, y amenaza con quitarle la vida. Luffy se entera de que Zorro está prisionero y decide ir a rescatarlo.</desc>
+        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8992472a7200a183eb5" start="20260310000242 +0000" stop="20260310030000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/featuredImage_1748955630680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31055,7 +31405,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Seiya y sus amigos disponen de 12 horas para superar las doce casas del Santuario y salvar a Saori, cuyo corazón ha sido atravesado por una flecha.</desc>
         <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20260309231018 +0000" stop="20260310030000 +0000">
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20260309231018 +0000" stop="20260309233725 +0000">
+        <title>Saint Seiya</title>
+        <desc>Después de que todos sus compañeros hayan caído derribados, Seiya se enfrenta en solitario a las embestidas del poderoso Caballero de Tauro.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20260309233725 +0000" stop="20260310000431 +0000">
+        <title>Saint Seiya</title>
+        <desc>Tras superar al Caballero de Tauro, los Canalleros de Bronce se ven obligados a dividirse en dos grupos en el laberinto dimensional de la casa de Géminis.</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20260310000431 +0000" stop="20260310030000 +0000">
         <title>Los caballeros del Zodiaco</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/featuredImage_1758616348425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31065,7 +31425,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El diamante azul de 100 quilates, la Lágrima de Hades, y su estatua se subastan por 1.000 millones de dólares. Es adquirido por la Fundación KL de Kingsland. Lupin y Jigen roban la Lágrima pero descubren que solo es una bola de vidrio teñida.</desc>
         <icon src="https://images.pluto.tv/series/698eedb423ea4372063da8d3/tile_1770974675136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="683457e5f59cc6a13212fce4" start="20260309230016 +0000" stop="20260310030000 +0000">
+    <programme channel="683457e5f59cc6a13212fce4" start="20260309230016 +0000" stop="20260309232736 +0000">
+        <title>Lupin the 3rd Parte 3</title>
+        <desc>Madame Tequila posee un diamante negro, el Cerdo Negro de México. Al saber que Lupin va tras él, nombra a Zenigata como su guardaespaldas. También ha contratado un seguro de 10.000 millones de dólares por el diamante.</desc>
+        <icon src="https://images.pluto.tv/series/698eedb423ea4372063da8d3/tile_1770974675136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20260309232736 +0000" stop="20260309235456 +0000">
+        <title>Lupin the 3rd Parte 3</title>
+        <desc>Lupin y su banda roban el Ivanov, el nuevo submarino nuclear de la Unión Soviética. Lo hace para buscar un tesoro hundido cerca de las Bermudas pero se ve atrapado en una feroz lucha entre la KGB y la CIA.</desc>
+        <icon src="https://images.pluto.tv/series/698eedb423ea4372063da8d3/tile_1770974675136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20260309235456 +0000" stop="20260310002240 +0000">
+        <title>Lupin the 3rd Parte 1</title>
+        <desc>Después de ganar la carrera de autos. Lupin se entera que alguien ha secuestrado a Vanessa. Los Scorpions intentan a matar a Lupin.</desc>
+        <icon src="https://images.pluto.tv/series/685c00e0de5f6440c475d8fe/tile_1769020560996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="683457e5f59cc6a13212fce4" start="20260310002240 +0000" stop="20260310030000 +0000">
         <title>Lupin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/featuredImage_1754485275815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31075,7 +31450,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El Duende Tortuga demuestra ser más de lo que aparenta al hacer una demostración de su técnica especial, el Kame Hame Ha. Consiste en concentrar toda la energía del cuerpo y liberarla en una onda capaz de derribar montañas.</desc>
         <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a996c7c4f2ad40cb4f276" start="20260309230404 +0000" stop="20260310030000 +0000">
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260309230404 +0000" stop="20260309233114 +0000">
+        <title>Dragon Ball</title>
+        <desc>Nuestros amigos llegan a una lejana aldea aterrorizada por la banda mafiosa de los Conejos. Goku no tarda en plantarles cara, pero, ¿qué puede hacer contra un enemigo capaz de convertir a cualquiera a quien toca en zanahoria?</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260309233114 +0000" stop="20260309235824 +0000">
+        <title>Dragon Ball</title>
+        <desc>Solo una bola de dragón separa a Bulma y compañía de su ansiado deseo. Lo que no saben es que Pilaf y los suyos han esperado hasta este momento para emboscarles y nada podrá impedir que se hagan con las bolas de dragón.</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260309235824 +0000" stop="20260310002534 +0000">
+        <title>Dragon Ball</title>
+        <desc>Tras escapar de la mazmorra, nuestros amigos se enfrentan a las numerosas trampas del castillo de Pilaf, incluida una máquina de pinball gigante. ¿Lograrán llegar hasta Pilaf antes de que pida su deseo de convertirse en amo del mundo?</desc>
+        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20260310002534 +0000" stop="20260310030000 +0000">
         <title>Dragon Ball</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/featuredImage_1756876796839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31085,7 +31475,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Johnny Knoxville se pone un pañal y se enfrenta a un luchador profesional de sumo, y Bam Margera despierta a sus padres a las 2 AM con un emocionante espectáculo death metal.</desc>
         <icon src="https://images.pluto.tv/series/5f36273417dc86001a78725e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68de3db35fc0afe85de0b843" start="20260309232148 +0000" stop="20260310030000 +0000">
+    <programme channel="68de3db35fc0afe85de0b843" start="20260309232148 +0000" stop="20260309234848 +0000">
+        <title>Jackass: Episodio 105</title>
+        <desc>Chris Pontius aterroriza a los habitantes de Los Angeles al anochecer, Johnny Knoxville crea el primer "Beekini" del mundo y Ryan Dunn tienta el destino y otras mil enfermedades micorbianas al sumergirse en un tanque de aguas residuales sin procesar</desc>
+        <icon src="https://images.pluto.tv/series/5f36273417dc86001a78725e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20260309234848 +0000" stop="20260310001448 +0000">
+        <title>Jackass: Episodio 107</title>
+        <desc>Chris Pontius se pone su mejor tanga de leopardo para luchar con algunos caimanes en Florida, y Johnny Knoxville permite que los vientos de paz corran por su cuerpo y por su recto en una clase de yoga.</desc>
+        <icon src="https://images.pluto.tv/series/5f36273417dc86001a78725e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68de3db35fc0afe85de0b843" start="20260310001448 +0000" stop="20260310030000 +0000">
         <title>Comedia a lo bestia de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/featuredImage_1759402468158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31095,7 +31495,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Vegeta no es rival para Freeza y acaba perdiendo la voluntad de luchar sin que Piccolo, Gohan y Klilyn puedan hacer nada más que observar aterrados. ¿Conseguirá aguantar el tiempo suficiente para que Goku se recupere?</desc>
         <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1772556650416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8fd7c3ede4398bc69af93" start="20260309230347 +0000" stop="20260310030000 +0000">
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260309230347 +0000" stop="20260309232957 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Goku llega al campo de batalla demasiado tarde para salvar a Vegeta. El príncipe de los saiyans aprovecha sus últimos instantes de vida para revelar un oscuro secreto de su pasado y arrancarle una promesa a Goku.</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1772556650416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260309232957 +0000" stop="20260309235607 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Con el propósito de vengar a todos los saiyans que ha matado, Goku entabla combate contra Freeza. El malvado tirano espacial dirige su poder contra el planeta haciendo surgir ríos de lava, pero Goku tampoco se queda atrás.</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1772556650416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260309235607 +0000" stop="20260310002217 +0000">
+        <title>Dragon Ball Z</title>
+        <desc>Goku y Freeza continúan midiendo sus fuerzas en el campo de batalla de Namek. Un ataque submarino por sorpresa acaba con el saiyan atrapado en una mortífera bola de energía del tirano. ¡Y esto sólo es el calentamiento!</desc>
+        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1772556650416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20260310002217 +0000" stop="20260310030000 +0000">
         <title>Dragon Ball Z</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/featuredImage_1772456612811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31105,7 +31520,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Sam le roba a Diane la reserva para cenar en un restaurante elegante.</desc>
         <icon src="https://images.pluto.tv/series/6901d4486538cde566b7f986/tile_1761728006052.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68f103545c876cf7307b4e37" start="20260309232301 +0000" stop="20260310030000 +0000">
+    <programme channel="68f103545c876cf7307b4e37" start="20260309232301 +0000" stop="20260309234939 +0000">
+        <title>Cheers</title>
+        <desc>Diane intenta poner celoso a Sam coqueteando con uno de sus alumnos.</desc>
+        <icon src="https://images.pluto.tv/series/6901d4486538cde566b7f986/tile_1761728006052.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68f103545c876cf7307b4e37" start="20260309234939 +0000" stop="20260310001615 +0000">
+        <title>Cheers</title>
+        <desc>El grupo de Cheers celebra una fiesta de Acción de Gracias en la nueva casa de Carla.</desc>
+        <icon src="https://images.pluto.tv/series/6901d4486538cde566b7f986/tile_1761728006052.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68f103545c876cf7307b4e37" start="20260310001615 +0000" stop="20260310030000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68f103545c876cf7307b4e37/featuredImage_1760653871009.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31115,7 +31540,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>¡Los más pequeños de la casa encontrarán a sus amigos de series de Nick Jr. favoritos como Blaze y los monster machines, Equipo Umizoomi, Butterbean´s Café y mucho más!</desc>
         <icon src="https://images.pluto.tv/series/680b7ccd2472a7200a09281a/tile_1745583310402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aa9bcd8160700076d45d1" start="20260309230531 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260309230531 +0000" stop="20260309233531 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>¡Los más pequeños de la casa encontrarán a sus amigos de series de Nick Jr. favoritos como Blaze y los monster machines, Equipo Umizoomi, Butterbean´s Café y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/680b7ccd2472a7200a09281a/tile_1745583310402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260309233531 +0000" stop="20260310000531 +0000">
+        <title>Pluto TV Junior</title>
+        <desc>¡Los más pequeños de la casa encontrarán a sus amigos de series de Nick Jr. favoritos como Blaze y los monster machines, Equipo Umizoomi, Butterbean´s Café y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/680b7ccd2472a7200a09281a/tile_1745583310402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aa9bcd8160700076d45d1" start="20260310000531 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/featuredImage_1748328566610.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31125,7 +31560,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
         <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aab1d29b39600073e243f" start="20260309230610 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1aab1d29b39600073e243f" start="20260309230610 +0000" stop="20260309233610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20260309233610 +0000" stop="20260310000610 +0000">
+        <title>Pluto TV Kids</title>
+        <desc>Los Pitufos están apoderándose de Pluto. Durante todo julio disfruta de las aventuras de tus pequeños amigos azules aquí, en Pluto TV Kids.</desc>
+        <icon src="https://images.pluto.tv/series/68246bba5c6467519563a1be/tile_1747217339632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aab1d29b39600073e243f" start="20260310000610 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/featuredImage_1755854217838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31135,7 +31580,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Murphy se separa del grupo por miedo a que se lleven el bebé… y la maten.</desc>
         <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8f49205650007bc15f1" start="20260309232345 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260309232345 +0000" stop="20260310001259 +0000">
+        <title>Z Nation</title>
+        <desc>Mientras cruzan el río Mississippi, el grupo se ve envuelto en un accidente y 10K se separa.</desc>
+        <icon src="https://images.pluto.tv/series/66e148636ec6ad00131cb1de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8f49205650007bc15f1" start="20260310001259 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31145,7 +31595,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
         <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260309230701 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260309230701 +0000" stop="20260309233701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260309233701 +0000" stop="20260310000701 +0000">
+        <title>Bob Esponja</title>
+        <desc>¿Quién vive en la piña debajo del mar? ¡Bob Esponja! Sumérgete en Fondo de Bikini para vivir las aventuras más desternillantes con Bob Esponja, Patricio y Calamardo.</desc>
+        <icon src="https://images.pluto.tv/series/669147a03a4ad20008d332fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1aca0b4e448e00075e7c5e" start="20260310000701 +0000" stop="20260310030000 +0000">
         <title>Bob Esponja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31155,7 +31615,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Receta: hamburguesa la 13. Virginia sarobe presenta la hamburguerseria 'va bene' de Donostia regentada por ella.</desc>
         <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260309230100 +0000" stop="20260310030000 +0000">
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260309230100 +0000" stop="20260309234700 +0000">
+        <title>A Bocados: A Bocados 22</title>
+        <desc>Receta: bolitas de patata y queso con confitura de tomate. Teodoro Bergara, cultivador de tomate de Falces. Vacas de Teodoro Bergara. Seccion ¿truco o reto?:  valor calorico de distintos quesos.</desc>
+        <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260309234700 +0000" stop="20260310003600 +0000">
+        <title>A Bocados: A Bocados 67</title>
+        <desc>Receta: cordero asado con ensalada de escarola, granada y vinagreta de vino tinto. Corderos de Xabier Munduate de Karrantza.</desc>
+        <icon src="https://images.pluto.tv/series/5f460c01b9a18c001a4b811e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1acdaa8ba90f0007d5e760" start="20260310003600 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Cocina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31165,7 +31635,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Segunda parte del viaje de Frank y su equipo por la selva de Costa Rica, en la que sigue encontrando animales de lo más variado, desde un puercoespín mexicano hasta un vampiro.</desc>
         <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600ae6a78d801e0007117d21" start="20260309232619 +0000" stop="20260310030000 +0000">
+    <programme channel="600ae6a78d801e0007117d21" start="20260309232619 +0000" stop="20260310002319 +0000">
+        <title>Frank de la jungla: Un Río llamado Mekong</title>
+        <desc>Desde hace 240 millones de años es el rey de los ríos y lagos de agua estancada. El cocodrilo es el soberano que gobierna la transición entre el agua y la tierra. Frank recorre los ríos de Tailandia en busca del cocodrilo en estado salvaje.</desc>
+        <icon src="https://images.pluto.tv/series/61c066d8f30167001a6325bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600ae6a78d801e0007117d21" start="20260310002319 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Animales</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31175,7 +31650,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
         <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609e7e423e9173000706a681" start="20260309232000 +0000" stop="20260310030000 +0000">
+    <programme channel="609e7e423e9173000706a681" start="20260309232000 +0000" stop="20260309235000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20260309235000 +0000" stop="20260310002000 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>¡Bienvenido a Pluto TV Kids Classics, donde podrás ver ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y muchos clásicos más! ¡Todo en  Pluto TV Kids Classics!</desc>
+        <icon src="https://images.pluto.tv/series/6824897a9eed174f7fbdec92/tile_1747224978368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609e7e423e9173000706a681" start="20260310002000 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609e7e423e9173000706a681/featuredImage_1750147034191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31185,7 +31670,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Siobhan se siente culpable tras lo suyo con Dominic y se lo cuenta a Jessica. Richard invita a Trudi a cenar.</desc>
         <icon src="https://images.pluto.tv/series/66cda94446be43001381c297/tile_1769200201115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dafb9a0df1ba000758d37b" start="20260309234629 +0000" stop="20260310030000 +0000">
+    <programme channel="60dafb9a0df1ba000758d37b" start="20260309234629 +0000" stop="20260310004518 +0000">
+        <title>Mistresses</title>
+        <desc>Jessica está celosa del amor de Alex por Lisa. Se acuesta con un invitado.Katie reprime lo que siente por Sam.</desc>
+        <icon src="https://images.pluto.tv/series/66cda94446be43001381c297/tile_1769200201115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dafb9a0df1ba000758d37b" start="20260310004518 +0000" stop="20260310030000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/featuredImage_1770367705306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31195,7 +31685,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
         <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dd6b1da79e4d0007309455" start="20260309233000 +0000" stop="20260310030000 +0000">
+    <programme channel="60dd6b1da79e4d0007309455" start="20260309233000 +0000" stop="20260310000000 +0000">
+        <title>Naturaleza y vida salvaje</title>
+        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dd6b1da79e4d0007309455" start="20260310000000 +0000" stop="20260310003000 +0000">
+        <title>Naturaleza y vida salvaje</title>
+        <desc>NatureTime acerca al público la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/63369ebfc5cf51000711e33b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dd6b1da79e4d0007309455" start="20260310003000 +0000" stop="20260310030000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31205,7 +31705,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura... ¡ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
         <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="610c09219fc0430007a3fce6" start="20260309231000 +0000" stop="20260310030000 +0000">
+    <programme channel="610c09219fc0430007a3fce6" start="20260309231000 +0000" stop="20260309233600 +0000">
+        <title>Rugrats, aventuras en pañales: Los viajes de Cynthia / El amigo invisible</title>
+        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura... ¡ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
+        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20260309233600 +0000" stop="20260310000200 +0000">
+        <title>Rugrats, aventuras en pañales: Alimentando a Hubert / Spike el perro fantástico</title>
+        <desc>Los Rugrats pueden ser bebés, pero no son ajenos a la aventura... ¡ni a los problemas! Pero no importa el problema, Tommy siempre encuentra una manera de solucionarlos.</desc>
+        <icon src="https://images.pluto.tv/series/5f5f1cf17758de001a1edc4e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="610c09219fc0430007a3fce6" start="20260310000200 +0000" stop="20260310030000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/featuredImage-1632239835308.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31215,7 +31725,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Leonardo, Raphael, Donnatello y Michelangelo son cuatro tortugas mutantes que crecieron en las alcantarillas de Nueva York. Entrenadas en el legendario arte del Ninjutsu por su maestro Splinter, una rata también mutante.</desc>
         <icon src="https://images.pluto.tv/series/680b640d56ff83bcd66e753f/tile_1745577307005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61373f1a12dd9f00077dcd6f" start="20260309230548 +0000" stop="20260310030000 +0000">
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20260309230548 +0000" stop="20260309233548 +0000">
+        <title>Las tortugas ninja</title>
+        <desc>Leonardo, Raphael, Donnatello y Michelangelo son cuatro tortugas mutantes que crecieron en las alcantarillas de Nueva York. Entrenadas en el legendario arte del Ninjutsu por su maestro Splinter, una rata también mutante.</desc>
+        <icon src="https://images.pluto.tv/series/680b640d56ff83bcd66e753f/tile_1745577307005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20260309233548 +0000" stop="20260310000548 +0000">
+        <title>Las tortugas ninja</title>
+        <desc>Leonardo, Raphael, Donnatello y Michelangelo son cuatro tortugas mutantes que crecieron en las alcantarillas de Nueva York. Entrenadas en el legendario arte del Ninjutsu por su maestro Splinter, una rata también mutante.</desc>
+        <icon src="https://images.pluto.tv/series/680b640d56ff83bcd66e753f/tile_1745577307005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61373f1a12dd9f00077dcd6f" start="20260310000548 +0000" stop="20260310030000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31225,7 +31745,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Después de ver en iCarly a un hombre que vendía copias ilegales de películas, dos detectives deciden utilizar el apartamento de Carly y Spencer para vigilar.</desc>
         <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1769110201577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6181404ef48321000797bc41" start="20260309232400 +0000" stop="20260310030000 +0000">
+    <programme channel="6181404ef48321000797bc41" start="20260309232400 +0000" stop="20260309234900 +0000">
+        <title>iCarly: Podría cambiar de colegio</title>
+        <desc>Gracias a su programa online, a Carly le llega una oportunidad única de conseguir una beca para una escuela privada muy importante. Carly no está segura de querer ir, pero Sam y Freddie saben que tienen que hacerle cambiar de opinión.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1769110201577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20260309234900 +0000" stop="20260310001400 +0000">
+        <title>iCarly: Practicando esgrima</title>
+        <desc>Freddie necesita pasar tiempo con chicos, así que se va a hacer esgrima con Spencer, pero se ven envueltos en un combate complicado.</desc>
+        <icon src="https://images.pluto.tv/series/5fec43bfb27a60001b2b3303/tile_1769110201577.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6181404ef48321000797bc41" start="20260310001400 +0000" stop="20260310030000 +0000">
         <title>iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31235,7 +31765,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>'En el punto de mira' ha acudido a diferentes puntos de España para ver las casas en las que han pasado muchos ciudadanos la cuarentena y, sobre todo, cómo se van a adaptar las nuevas casas al coronavirus.</desc>
         <icon src="https://images.pluto.tv/series/61c0662ef30167001a631794/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61922be835f3910007fc58f6" start="20260309231500 +0000" stop="20260310030000 +0000">
+    <programme channel="61922be835f3910007fc58f6" start="20260309231500 +0000" stop="20260310001900 +0000">
+        <title>En el punto de mira: Ladrones de identidad</title>
+        <desc>Unos 3.000 españoles al año denuncian el robo digital de su identidad. Los reporteros investigan diversos casos de personas a las que les han usurpado la identidad o han estafado utilizando un perfil robado.</desc>
+        <icon src="https://images.pluto.tv/series/61c0662ef30167001a631794/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61922be835f3910007fc58f6" start="20260310001900 +0000" stop="20260310030000 +0000">
         <title>En el punto de mira</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61922be835f3910007fc58f6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31245,7 +31780,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El cuerpo de Nathalie Villermet, de 46 años, gerente de un pequeño hotel y restaurante, es encontrado por un caminante en el bosque a las afueras de París, escondido bajo ramas.</desc>
         <icon src="https://images.pluto.tv/series/6038f0dce60433001ab2dc26/tile_1769115961299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61cd7b49543066000713b620" start="20260309235022 +0000" stop="20260310030000 +0000">
+    <programme channel="61cd7b49543066000713b620" start="20260309235022 +0000" stop="20260310004922 +0000">
+        <title>Evidencias del Crimen: Trampa Macabra en El Camino</title>
+        <desc>Una bicicleta dañada perteneciente a Karine Schaaff, de 16 años, se encuentra abandonada al costado de una carretera en Moselle.</desc>
+        <icon src="https://images.pluto.tv/series/6038f0dce60433001ab2dc26/tile_1769115961299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61cd7b49543066000713b620" start="20260310004922 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Historia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61cd7b49543066000713b620/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31255,7 +31795,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
         <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="622f42b831233300078658cc" start="20260309235116 +0000" stop="20260310030000 +0000">
+    <programme channel="622f42b831233300078658cc" start="20260309235116 +0000" stop="20260310004716 +0000">
+        <title>Aragoneses por el mundo: Berlín</title>
+        <desc>Aragoneses por el mundo es un programa documental que rastrea el mundo en busca de ciudadanos aragoneses y nos acerca a sus historias.</desc>
+        <icon src="https://images.pluto.tv/series/64c130c6ba8eeb001358bf7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="622f42b831233300078658cc" start="20260310004716 +0000" stop="20260310030000 +0000">
         <title>Ciudadanos por el mundo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/622f42b831233300078658cc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31265,7 +31810,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Winx Club llega a una ciudad bajo el agua para rescatar a su reina.</desc>
         <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62568a94ed1f380007b0211f" start="20260309230400 +0000" stop="20260310030000 +0000">
+    <programme channel="62568a94ed1f380007b0211f" start="20260309230400 +0000" stop="20260309233000 +0000">
+        <title>Winx Club: La compañía de la luz</title>
+        <desc>Winx Club vuelve a Alfea, donde las castigan por haberse ido.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20260309233000 +0000" stop="20260309235700 +0000">
+        <title>Winx Club: Una adversaria desleal</title>
+        <desc>La princesa Diaspro comienza su plan para conseguir el amor del príncipe Sky.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20260309235700 +0000" stop="20260310002400 +0000">
+        <title>Winx Club: El corazón y la espada</title>
+        <desc>Winx Club y los Especialistas  idean un plan para descubrir el comportamiento imprevisible de Sky.</desc>
+        <icon src="https://images.pluto.tv/series/627378105bbb230014b8a9f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62568a94ed1f380007b0211f" start="20260310002400 +0000" stop="20260310030000 +0000">
         <title>Winx Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31275,7 +31835,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Bastante ignorada, esta amplia red del cuerpo humano permite, gracias a la linfa, transportar todos los materiales hacia las fábricas del cuerpo. ¡Cuidado con los intrusos infecciosos! El lugar está bien protegido…</desc>
         <icon src="https://images.pluto.tv/series/6245af9cff21e50013207f09/tile_1769122082314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c69c87808b740007599fe1" start="20260309232500 +0000" stop="20260310030000 +0000">
+    <programme channel="63c69c87808b740007599fe1" start="20260309232500 +0000" stop="20260309235300 +0000">
+        <title>Érase una vez... El cuerpo humano: Los huesos y el esqueleto</title>
+        <desc>¡Qué bella arquitectura para sostener y proteger nuestros órganos! Pero a la menor fractura, los daños son considerables y la sangre y las células tendrán mucho por hacer para repararlo todo.</desc>
+        <icon src="https://images.pluto.tv/series/6245af9cff21e50013207f09/tile_1769122082314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20260309235300 +0000" stop="20260310002100 +0000">
+        <title>Érase una vez... El cuerpo humano: Los músculos</title>
+        <desc>Los músculos representan casi la mitad del peso total del cuerpo humano, e incluso los órganos y los vasos tienen los suyos. Pero todo este mecanismo tiene una necesidad enorme de energía para trabajar.</desc>
+        <icon src="https://images.pluto.tv/series/6245af9cff21e50013207f09/tile_1769122082314.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c69c87808b740007599fe1" start="20260310002100 +0000" stop="20260310030000 +0000">
         <title>Érase una vez...</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31285,7 +31855,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
         <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb944dc111bc0008fe7021" start="20260309232518 +0000" stop="20260310030000 +0000">
+    <programme channel="63eb944dc111bc0008fe7021" start="20260309232518 +0000" stop="20260309235518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260309235518 +0000" stop="20260310002518 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Las sitcoms Teen más icónicas de los 90' y los 2000 reunidas en un solo canal. Pasa el día con Drake &amp; Josh, Kenan &amp; Kell, Las historias de Clarissa, y Wendell &amp; Vinnie en Pluto TV Teen.</desc>
+        <icon src="https://images.pluto.tv/series/682470f3641c35a167cda359/tile_1747218678394.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb944dc111bc0008fe7021" start="20260310002518 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/featuredImage_1761820520888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31295,7 +31875,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Dalí asume deberes ceremoniales antes de una fiesta en el Museo de Arte Miller en los Países Bajos. En el aeropuerto, se encuentra con Muhak en lugar de Hitonari, ¡y todo sale mal al instante!</desc>
         <icon src="https://images.pluto.tv/series/68b03af5b76cf0ad374e5c7a/tile_1769022001381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6475bfec536e0c0008858e9f" start="20260309231752 +0000" stop="20260310030000 +0000">
+    <programme channel="6475bfec536e0c0008858e9f" start="20260309231752 +0000" stop="20260310003436 +0000">
+        <title>Dali y el Principe Engreido</title>
+        <desc>Muhak, entristecido por la ruptura, le da a Dalí su reloj y promete volver a verse. Sin embargo, Dalí desaparece tras una misteriosa llamada. Muhak la encuentra en un lugar inesperado.</desc>
+        <icon src="https://images.pluto.tv/series/68b03af5b76cf0ad374e5c7a/tile_1769022001381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6475bfec536e0c0008858e9f" start="20260310003436 +0000" stop="20260310030000 +0000">
         <title>Pluto TV K-Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31305,7 +31890,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>La familia Gray ha estado viviendo en la casa durante diecisiete años, pero querían adaptarla para el futuro.</desc>
         <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1755167402088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64db2e0835425100080f2f5a" start="20260309232151 +0000" stop="20260310030000 +0000">
+    <programme channel="64db2e0835425100080f2f5a" start="20260309232151 +0000" stop="20260310001935 +0000">
+        <title>Espacio Para Mejorar</title>
+        <desc>David y Nessa Conlon acaban de comprar este bungalow independiente de varios niveles, construido en los años 90.</desc>
+        <icon src="https://images.pluto.tv/series/689dbaa8fd92ab53e8e218d4/tile_1755167402088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64db2e0835425100080f2f5a" start="20260310001935 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Diseño</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31315,7 +31905,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El inspector perdió algo importante inspeccionando las chimeneas.</desc>
         <icon src="https://images.pluto.tv/series/65eb2873038f3700136de37a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65786abdb3801200084c593a" start="20260309233600 +0000" stop="20260310030000 +0000">
+    <programme channel="65786abdb3801200084c593a" start="20260309233600 +0000" stop="20260310002900 +0000">
+        <title>Holmes: Inspector de viviendas</title>
+        <desc>Una Investigación de una renovación oculta que amenaza la salud y la seguridad de una familia. Mike asesora la sala de juegos del sótano de Kris y Dave, donde un sótano frío cerrado ofrece el caldo de cultivo perfecto para el moho.</desc>
+        <icon src="https://images.pluto.tv/series/65eb2873038f3700136de37a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65786abdb3801200084c593a" start="20260310002900 +0000" stop="20260310030000 +0000">
         <title>Homeful</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786abdb3801200084c593a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31325,7 +31920,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Núremberg, la ciudad de los Congresos del Partido Nazi, ha capitulado tras una sangrienta batalla puerta por puerta.</desc>
         <icon src="https://images.pluto.tv/series/678a6984ad928500139b3dd6/tile_1764963170517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67517f923a61d40008c451f0" start="20260309232800 +0000" stop="20260310030000 +0000">
+    <programme channel="67517f923a61d40008c451f0" start="20260309232800 +0000" stop="20260310002200 +0000">
+        <title>Hitler: Revelando Su Obsesión Fatal</title>
+        <desc>En junio de 1941, más de tres millones de soldados del Eje, la mayor fuerza invasora de la Historia, irrumpieron en la Unión Soviética atravesando la frontera como si no existiera.</desc>
+        <icon src="https://images.pluto.tv/series/678e8e312978f1001343f471/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67517f923a61d40008c451f0" start="20260310002200 +0000" stop="20260310030000 +0000">
         <title>Historia y Vida</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67517f923a61d40008c451f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31335,7 +31935,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
         <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260309233000 +0000" stop="20260310030000 +0000">
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260309233000 +0000" stop="20260310000000 +0000">
+        <title>Metal Rocks</title>
+        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
+        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260310000000 +0000" stop="20260310003000 +0000">
+        <title>Metal Rocks</title>
+        <desc>Metal Rocks es el canal definitivo para toda la música Metal, uniendo los mayores sellos discográficos en un solo lugar. Vive la intensidad del metal sin parar, incluyendo bandas top y sus últimos videos 24/7.</desc>
+        <icon src="https://images.pluto.tv/series/690c74d28caba6f04684c5ad/tile_1762424755777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd8bb9d079f48dbbdfecb" start="20260310003000 +0000" stop="20260310030000 +0000">
         <title>Metal Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/featuredImage_1756372276884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31345,7 +31955,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El verano está llegando a su fin, hace tres meses que Heidi llegó a los Alpes. Pichí es ya un adulto y travieso pajarillo. El otoño se acerca y en lo alto de las montañas empieza a soplar el viento.</desc>
         <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68779a09c691b3f0964127c6" start="20260309231739 +0000" stop="20260310030000 +0000">
+    <programme channel="68779a09c691b3f0964127c6" start="20260309231739 +0000" stop="20260309234439 +0000">
+        <title>Heidi 2D: ¿A dónde ha ido Pitchí?</title>
+        <desc>Con la llegada del frío, Pichí tiene que migrar. Heidi se pone muy triste porque al principio no lo entiende, pero el abuelo se lo explica. Pedro, viendo lo triste que está Heidi, coge un pájaro para ella.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20260309234439 +0000" stop="20260310001139 +0000">
+        <title>Heidi 2D: Los Alpes nevados</title>
+        <desc>El invierno llega a los Alpes, Heidi se despierta con la cama llena de nieve y le encanta. Luego ve a un ciervo y le da heno para hacerse amiga de él. Pedro la visita, le cuenta que está en la escuela y la invita a su casa a ver a su abuela.</desc>
+        <icon src="https://images.pluto.tv/series/60dacee76d96370013aa69f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68779a09c691b3f0964127c6" start="20260310001139 +0000" stop="20260310030000 +0000">
         <title>Heidi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/featuredImage-1757319877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31355,7 +31975,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Pac viaja a una dimensión paralela extraña.</desc>
         <icon src="https://images.pluto.tv/series/68c960bca64d66fd0be1caf1/tile_1758027966312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6880aa28164eb4890282e803" start="20260309232235 +0000" stop="20260310030000 +0000">
+    <programme channel="6880aa28164eb4890282e803" start="20260309232235 +0000" stop="20260309234810 +0000">
+        <title>PAC-MAN y las Aventuras Fantasmales</title>
+        <desc>Pac lucha contra una dentadura maldita que cobra vida.</desc>
+        <icon src="https://images.pluto.tv/series/68c960bca64d66fd0be1caf1/tile_1758027966312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6880aa28164eb4890282e803" start="20260309234810 +0000" stop="20260310001345 +0000">
+        <title>PAC-MAN y las Aventuras Fantasmales</title>
+        <desc>Pac se digitaliza para enfrentar un virus.</desc>
+        <icon src="https://images.pluto.tv/series/68c960bca64d66fd0be1caf1/tile_1758027966312.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6880aa28164eb4890282e803" start="20260310001345 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6880aa28164eb4890282e803/featuredImage_1760522021301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31365,7 +31995,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Incluye episodios: Encontrar tu voz / Friend Tag con Renee / Juego «Me voy de viaje» con Stacie / Lugares a los que Barbie sueña con viajar / El perdón / Datos curiosos de animales con Chelsea / Ayuda a salvar los océanos</desc>
         <icon src="https://images.pluto.tv/series/6930031882bb361505fd2a13/tile_1764754201707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="688892172928933015abe479" start="20260309230205 +0000" stop="20260310030000 +0000">
+    <programme channel="688892172928933015abe479" start="20260309230205 +0000" stop="20260309234509 +0000">
+        <title>Barbie: My First Barbie</title>
+        <desc>Malibu, Brooklyn, Teresa y Renée preparan la mayor fiesta sorpresa para Chelsea. Pero cuando los deseos se descontrolan, la magia de la Casa de los Sueños causa caos. ¿Podrán Barbie y sus amigas salvar el Día de Ensueño?</desc>
+        <icon src="https://images.pluto.tv/series/69285c386d8434d421331a97/tile_1764252729876.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20260309234509 +0000" stop="20260310000811 +0000">
+        <title>Barbie Dreamtopia series</title>
+        <desc>Chelsea y sus amigos cooperan en Dreamtopia para salvar al Árbol Parlante con trabajo en equipo.</desc>
+        <icon src="https://images.pluto.tv/series/693058e0779bf41d1d160bfc/tile_1764776200224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="688892172928933015abe479" start="20260310000811 +0000" stop="20260310030000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage_1765806030713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31375,7 +32015,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>¿Quién es Geoffrey? / La Navidad de Cranky</desc>
         <icon src="https://images.pluto.tv/series/692ed359a48fba0b7e55102d/tile_1764676446523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6888928eb52fb742416673d2" start="20260309231535 +0000" stop="20260310030000 +0000">
+    <programme channel="6888928eb52fb742416673d2" start="20260309231535 +0000" stop="20260309233924 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>No hay lugar como la nieve / La verdad sobre Toby</desc>
+        <icon src="https://images.pluto.tv/series/692ed359a48fba0b7e55102d/tile_1764676446523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20260309233924 +0000" stop="20260310000313 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Objetos perdidos / Henry ve problemas</desc>
+        <icon src="https://images.pluto.tv/series/692ed359a48fba0b7e55102d/tile_1764676446523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6888928eb52fb742416673d2" start="20260310000313 +0000" stop="20260310030000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6888928eb52fb742416673d2/featuredImage_1765806188472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31385,7 +32035,22 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>El Rival De Fortachón / Poeta El Sabelotodo</desc>
         <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d27949793c71d988ca624c" start="20260309230139 +0000" stop="20260310030000 +0000">
+    <programme channel="68d27949793c71d988ca624c" start="20260309230139 +0000" stop="20260309232922 +0000">
+        <title>Los Pitufos</title>
+        <desc>El Amigo De Los Pitufos / Pitufos Recortados</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20260309232922 +0000" stop="20260309235544 +0000">
+        <title>Los Pitufos</title>
+        <desc>La Colmena De Sassette</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20260309235544 +0000" stop="20260310002205 +0000">
+        <title>Los Pitufos</title>
+        <desc>El Gran Amor De Clorhidris</desc>
+        <icon src="https://images.pluto.tv/series/68efa1d869032f4edf8ba3ac/tile_1760537913388.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d27949793c71d988ca624c" start="20260310002205 +0000" stop="20260310030000 +0000">
         <title>Los Pitufos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage_1760370849906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31395,7 +32060,12 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Anne y Luca deciden vivir juntos y buscar la casa de sus sueños en la ciudad. A pesar de estar de acuerdo en dejar las afueras, sus estilos no podrían ser más diferentes.</desc>
         <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690dd10a37b131228d76d5b1" start="20260309234500 +0000" stop="20260310030000 +0000">
+    <programme channel="690dd10a37b131228d76d5b1" start="20260309234500 +0000" stop="20260310003400 +0000">
+        <title>La casa de mis sueños</title>
+        <desc>Tras años viviendo en apartamentos pequeños, la enfermera Shannon y el médico Darl están listos para comprar su primera casa.</desc>
+        <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690dd10a37b131228d76d5b1" start="20260310003400 +0000" stop="20260310030000 +0000">
         <title>El Mueble</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/featuredImage_1764966923664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31405,7 +32075,17 @@ Estrella Invitada: Martin Clunes.</desc>
         <desc>Las Tres Mellizas se encuentran rodeadas de piratas recreando las viejas historias del capitán Flint, Billy Bones, Silver, Jim.</desc>
         <icon src="https://images.pluto.tv/series/5f4371270b2a6c001ab9d022/tile_1768930920991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691ddf2a3ae32cf55263476d" start="20260309231108 +0000" stop="20260310030000 +0000">
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260309231108 +0000" stop="20260309233810 +0000">
+        <title>La Abeja Maya</title>
+        <desc>Después de que un torbellino los haya lanzado muy lejos, Maya y Alejandro se encuentran de repente en otro planeta- bien, esto es lo que Alejandro cree.</desc>
+        <icon src="https://images.pluto.tv/series/680f54739f0436e1ab84a6e1/tile_1769018041616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260309233810 +0000" stop="20260310000421 +0000">
+        <title>Vicky El Vikingo</title>
+        <desc>Vicky es un astuto niño vikingo, hijo de Ylva y del jefe Halvar. Siempre ingenioso, encuentra soluciones creativas a los problemas y desventuras de los guerreros vikingos en sus incursiones por mar y tierra.</desc>
+        <icon src="https://images.pluto.tv/series/683effe22339944cec1b1395/tile_1769019480767.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ddf2a3ae32cf55263476d" start="20260310000421 +0000" stop="20260310030000 +0000">
         <title>Pluto TV Forever Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/featuredImage_1763569070882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
